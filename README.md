@@ -237,30 +237,6 @@ For detailed file structure, see [STRUCTURE.md](STRUCTURE.md)
 - Git
 - Virtual environment tool (venv or conda)
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Khanna-Aman/GFG_21_days_21_projects.git
-cd GFG_21_days_21_projects
-```
-
-2. Create and activate virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install required packages for specific projects:
-```bash
-cd Day_XX
-pip install -r requirements.txt  # If available
-```
-
-## Usage
-
-Each day's project is self-contained in its respective folder. To run a project:
-
 1. Navigate to the specific day folder
 2. Open the Jupyter notebook or Python script
 3. Follow the instructions in the project's README.md
